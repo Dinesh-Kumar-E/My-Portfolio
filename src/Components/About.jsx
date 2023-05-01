@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Technology Enthusiast Committed to Advancing Knowledge through Research";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "As a tech enthusiast with a passion for sustainability, I am motivated to create positive change through technology. My experience in organizing events and raising awareness has shown me the impact of such initiatives in driving action towards sustainable development. As a team leader and volunteer for organizations such as UBA and NSS, I have developed valuable teamwork and leadership skills. My experience in computer engineering, specializing in artificial intelligence and machine learning, has given me a strong foundation to pursue my interest in research. I am committed to promoting accessibility and inclusivity in technology and sharing my knowledge with others. With a critical eye towards the development and implementation process, I strive to ensure that technology does not exacerbate existing inequalities or create new ones.";
 
 const About = () => {
   return (
